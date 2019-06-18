@@ -1,0 +1,80 @@
+/* Empty. Add your own CSS if you like */
+
+.video{
+  
+  text-align:center;
+  color:green;
+  font-family: fantasy;
+  font-size: 120%;
+  font-style: oblique;
+}
+
+.tabla tr td {
+	border: 2px solid black;
+}
+
+.t-view{
+	border: 2px solid blue;
+}
+
+.vid{
+	text-align: center;
+	color: blue;
+  font-family: fantasy;
+  font-size: 120%;
+  font-style: oblique;
+}
+
+.cambio{
+	text-align: center;
+	color: red;
+  font-size: 120%;
+  font-family: fantasy;
+  font-style: oblique;
+
+}
+
+.list list-inset{
+  background: url('otono.jpg') no-repeat center;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  background-size: cover;
+}
+.Juego{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #FF9090;
+  overflow: hidden;
+  font-family: 'Coda', cursive;
+}
+.figura{
+  width: 400;
+  height:341;
+    
+
+}
+
+.tabla_info{
+      align-content: center;
+      margin-left:auto; 
+        margin-right:auto;
+      height:max-content;
+      width:min-content;
+    }
+
+    #texto{
+      text-align: left;
+      vertical-align: middle;
+      font-family: Helvetica;
+      font-style: italic;
+      font-size: larger;
+      padding-left: 25px;
+    }
+
+    .imagen{
+      text-align: center;
+    }
